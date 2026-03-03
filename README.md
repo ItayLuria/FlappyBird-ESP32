@@ -4,7 +4,7 @@
 This project is an implementation of Flappy Bird on the **ESP32** using the **Arduino framework**. It is designed to run on an **SSD1306 OLED display**.
 
 ## Video Demo
-**
+https://github.com/user-attachments/assets/f719393d-b9db-4083-ade1-38d7253682c6
 
 ## Features
 - **Controls:** flight mechanics using a physical push button (GPIO 23).
@@ -18,10 +18,6 @@ This project is an implementation of Flappy Bird on the **ESP32** using the **Ar
 - **SSD1306 OLED Display** (I2C: SCL=22, SDA=21)
 - **Push Button** (Connected to GPIO 23)
 - **Buzzer** (Connected to GPIO 18)
-
-## Dependencies
-Install these via Arduino Library Manager:
-- [ThingPulse OLED SSD1306](https://github.com/ThingPulse/esp8266-oled-ssd1306.git)
 
 ## Installation
 1. Clone this repository.
