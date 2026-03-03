@@ -4,7 +4,10 @@
 This project is an implementation of Flappy Bird on the **ESP32** using the **Arduino framework**. It is designed to run on an **SSD1306 OLED display**.
 
 ## Video Demo
-https://github.com/user-attachments/assets/f719393d-b9db-4083-ade1-38d7253682c6
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/f719393d-b9db-4083-ade1-38d7253682c6" width="300" controls>
+  </video>
+</div>
 
 ## Features
 - **Controls:** flight mechanics using a physical push button (GPIO 23).
