@@ -36,5 +36,3 @@ This project is an implementation of Flappy Bird on the **ESP32** using the **Ar
 | Button | GPIO 23 |
 | Buzzer | GPIO 18 |
 
-## Acknowledgments
-- Base project inspired by [nonameex1sts](https://github.com/nonameex1sts/FlappyBird_ESP32).
